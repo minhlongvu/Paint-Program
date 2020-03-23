@@ -1,4 +1,4 @@
-# Paint-Program made with p5.js for CSC2463
+# Paint-Program made with p5.js
 
 https://minhlongvu.github.io/Paint-Program/
 
